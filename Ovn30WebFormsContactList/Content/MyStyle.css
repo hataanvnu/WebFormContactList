@@ -1,0 +1,39 @@
+﻿.central-content {
+    width: 95%;
+    margin: auto;
+}
+
+#detailed-info td {
+    display: flex;
+    font-weight: bold;
+}
+
+.validatorText {
+    color: red;
+    margin-left: 10px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+a {
+    color: lightseagreen;
+}
+
+thead {
+    font-weight: bold;
+    background-color: lightgrey;
+}
+
+#createNewContactLink {
+    margin-left: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
